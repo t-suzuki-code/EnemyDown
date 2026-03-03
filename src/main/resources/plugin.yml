@@ -1,0 +1,7 @@
+name: EnemyDown
+version: '1.0-SNAPSHOT'
+main: plugin.enemydown.Main
+api-version: '1.21'
+commands:
+  enemyDown:
+  enemySpawn:
