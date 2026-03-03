@@ -4,7 +4,7 @@
 
 
 # はじめに
-本リポジトリは、「すずき」（Xアカウント： https://x.com/mr_suzuki_works）　が作成したMinecraftプラグインに関するものです。
+本リポジトリは、「すずき」（Xアカウント： [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com//mr_suzuki_works)が作成したMinecraftプラグインに関するものです。
 ご利用いただくことによるトラブル等につきましては、一切の責任を負いかねますことを予めご了承ください。
 
 
